@@ -1,0 +1,3 @@
+- Classification: [Predict gamma hardon](https://colab.research.google.com/drive/1DWg8CItMi91rKqd2yzOZwvsf_-6fc13Z?usp=sharing)
+- Linear regression: [Predict number bike count](https://colab.research.google.com/drive/16wXujhYBc-Yv2fjyn7wIQf6aKgHTUUZs?usp=sharing)
+- Unsupervised learning: [Seed-Unsupervised](https://colab.research.google.com/drive/1_f5UqmZNeXxM3gmUaZrCryQ896HnP0pa?usp=sharing)

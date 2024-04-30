@@ -1,0 +1,8 @@
+tensorflow[and-cuda]
+matplotlib
+tensorflow_datasets
+ipywidgets
+tensorrt
+scikit-learn
+seaborn
+opencv-python

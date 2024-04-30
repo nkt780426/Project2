@@ -1,0 +1,2 @@
+- Learn tensorflow: https://colab.research.google.com/drive/1J43NsYSO7rIchMXvhvtiAb8E1AGQATN-?usp=sharing
+- Predict price of car: https://colab.research.google.com/drive/18TKwhFdQNurB05ckMAE8sHAEkNB1h-qW?usp=sharing

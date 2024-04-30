@@ -1,0 +1,4 @@
+opencv-contrib-python==4.9.0.80
+caer==2.0.8
+matplotlib
+canaro
