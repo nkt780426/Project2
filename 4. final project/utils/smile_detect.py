@@ -24,7 +24,7 @@ def predict_smile(img):
 
 if __name__ == '__main__':
     # Load ảnh
-    img_path = 'test4.jpg'
+    img_path = 'test6.jpg'
     img = cv.imread(img_path)
     gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     
@@ -36,7 +36,7 @@ if __name__ == '__main__':
         
         # Cắt mặt ra
         face_img = gray[y:y+h, x:x+w]
-        cv.imwrite('face4.jpg', face_img)
+        cv.imwrite('face6.jpg', face_img)
         
         # Dự đoán
         start_time = time.time()

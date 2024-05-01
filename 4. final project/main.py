@@ -19,9 +19,6 @@ color = None
 while True:
     # Đọc từng frame, ret là bool nếu đọc được frame
     ret, frame = capture.read()
-    if not ret:
-        print("Failed to capture frame")
-        break
     
     # Chuyển ảnh về grayscale mới dùng được model + haar_cascade
     grayFrame = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
